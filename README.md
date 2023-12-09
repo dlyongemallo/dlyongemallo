@@ -2,9 +2,9 @@
 
 I am a software engineer working on quantum computing. Some of the projects I'm currently working on:
 
-- [PyZX](https://github.com/Quantomatic/pyzx)
-- [ZXLive](https://github.com/Quantomatic/zxlive)
-- [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler)
+- [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
+- [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus.
+- [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - A transpiler pass for Qiskit which uses ZX-Calculus for circuit optimization, implemented using PyZX.
 
 I am also the creator and maintainer of the **boQwI'** Klingon-language suite, which is managed using [another account](https://github.com/De7vID).
 
