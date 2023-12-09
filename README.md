@@ -1,4 +1,12 @@
-### Hi there 👋
+### About me
+
+I am a software engineer working on quantum computing. Some of the projects I'm currently working on:
+
+- [PyZX](https://github.com/Quantomatic/pyzx)
+- [ZXLive](https://github.com/Quantomatic/zxlive)
+- [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler)
+
+I am also the creator and maintainer of the **boQwI'** Klingon-language suite, which is managed using [another account](https://github.com/De7vID).
 
 <!--
 **dlyongemallo/dlyongemallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
