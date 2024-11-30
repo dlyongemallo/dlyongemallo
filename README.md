@@ -1,10 +1,12 @@
 ### About me
 
-I am a software engineer working on machine learning and quantum computing. Some of the projects I'm currently working on:
+I am a software engineer working on machine learning and quantum computing. Some of the open-source projects I've worked on:
 
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
 - [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - A transpiler pass for Qiskit which uses ZX-Calculus for circuit optimization, implemented using PyZX.
+
+I am one of the maintainers of the directory of [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software).
 
 I am also the creator and maintainer of the **boQwI'** [Klingon language suite](https://github.com/De7vID/klingon-assistant), which is managed using [another account](https://github.com/De7vID):
 
