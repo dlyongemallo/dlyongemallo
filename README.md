@@ -1,6 +1,8 @@
 ### About me
 
-I am a software engineer working on machine learning and quantum computing. Some of the open-source projects I've worked on:
+I am a software engineer working on machine learning and quantum computing. I was formerly employed at Google and am currently working at [Numfum](https://www.numfum.com/).
+
+Some of the open-source projects I've worked on:
 
 - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
 - [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
