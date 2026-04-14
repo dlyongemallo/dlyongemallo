@@ -2,19 +2,27 @@
 
 I am a software engineer working on machine learning and quantum computing. I was formerly employed at Google and am currently working at [Numfum](https://www.numfum.com/).
 
-Some of the open-source projects I've worked on:
+Open-source projects that I am working or have previously worked on:
 
-- [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
-- [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
-- [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - A transpiler pass for Qiskit which uses ZX-Calculus for circuit optimization, implemented using PyZX.
+* Quantum-related:
+  - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
+  - [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
+  - [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - A transpiler pass for Qiskit which uses ZX-Calculus for circuit optimization, implemented using PyZX.
+  - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software) - curated list of open-source quantum software projects.
+  - [Cirq](https://github.com/quantumlib/Cirq) - Google's Python framework for creating, editing, and running NISQ circuits.
 
-I am one of the maintainers of the directory of [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software).
+* Neovim plugins:
+  - [sanity.nvim](https://github.com/dlyongemallo/sanity.nvim) - For integrating dynamic analysis tools (valgrind, sanitizers).
+  - [diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for cycling through diffs for any git rev; actively maintained fork of [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim).
 
-I am also the creator and maintainer of the **boQwI'** [Klingon language suite](https://github.com/De7vID/klingon-assistant), which is managed using [another account](https://github.com/De7vID):
+* i18n (internationalisation):
+  - [libphonenumber](https://github.com/google/libphonenumber) - Google's library for parsing, formatting, and validating international phone numbers.
+  - [libaddressinput](https://github.com/google/libaddressinput) - Google's postal address library, which powers Android and Chromium.
 
-- [Android app](https://github.com/De7vID/klingon-assistant-android) - A lexicon dictionary and grammar analysis tool.
-- [Android TTS](https://github.com/De7vID/klingon-assistant-tts-android) - A Text-To-Speech engine for Klingon.
-- [iOS port](https://github.com/dadap/flingon-assister) (by [dadap](https://github.com/dadap)) - An iOS version of the Android app.
+* [Klingon language suite](https://github.com/De7vID/klingon-assistant) (managed under [another account](https://github.com/De7vID)):
+  - [Android app](https://github.com/De7vID/klingon-assistant-android) - A lexicon dictionary and grammar analysis tool.
+  - [Android TTS](https://github.com/De7vID/klingon-assistant-tts-android) - A Text-To-Speech engine for Klingon.
+  - [iOS port](https://github.com/dadap/flingon-assister) (by [dadap](https://github.com/dadap)) - An iOS version of the Android app.
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dlyongemallo&theme=zenburn)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dlyongemallo&theme=zenburn)
