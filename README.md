@@ -5,8 +5,8 @@ I am a software engineer working on machine learning and quantum computing. I wa
 Open-source projects that I am working or have previously worked on:
 
 * Quantum-related:
-  - [PyZX](https://github.com/Quantomatic/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
-  - [ZXLive](https://github.com/Quantomatic/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
+  - [PyZX](https://github.com/zxcalc/pyzx) - Python library for quantum circuit rewriting and optimisation using the ZX-calculus.
+  - [ZXLive](https://github.com/zxcalc/zxlive) - A graphical tool for the ZX-calculus, implemented using Qt/PySide6.
   - [Qiskit ZX Transpiler](https://github.com/dlyongemallo/qiskit-zx-transpiler) - A transpiler pass for Qiskit which uses ZX-Calculus for circuit optimization, implemented using PyZX.
   - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software) - curated list of open-source quantum software projects.
   - [Cirq](https://github.com/quantumlib/Cirq) - Google's Python framework for creating, editing, and running NISQ circuits.
